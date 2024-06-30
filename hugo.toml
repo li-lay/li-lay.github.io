@@ -95,12 +95,6 @@ pygmentsStyle = "monokai"
   #   weight = 5
 
   # [[menu.main]]
-  #   identifier = "buymeacoffee"
-  #   pre = "<span data-feather='coffee'></span>"
-  #   url = "https://www.buymeacoffee.com/avijitgupta"
-  #   weight = 6
-
-  # [[menu.main]]
   #   identifier = "rss"
   #   pre = "<span data-feather='rss'></span>"
   #   url = "/index.xml"
