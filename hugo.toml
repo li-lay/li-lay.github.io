@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "LILAY"
-  description = "Freshman IT | Gamer | Music enjoyer | Homelab"
+  description = "Sophomore IT | Gamer | Music enjoyer | Homelab | Linux user"
   avatarURL = "/images/avatar.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
