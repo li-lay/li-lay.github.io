@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 28 Jun 2024 10:24:02 +0700</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;&#xA;&lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; post with &amp;ldquo;Hello World!&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://media1.tenor.com/m/VjjwSvR2wKAAAAAC/helloworld-helloworld-print.gif&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;</description>
+      <description>Hello World! This is my first post with &amp;ldquo;Hello World!&amp;rdquo;.</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/index-about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/index-about/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description> </description>
     </item>
   </channel>
 </rss>
